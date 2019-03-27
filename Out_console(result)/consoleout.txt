@@ -1,0 +1,78 @@
+Total number of viewers for show on ABC
+Surreal_News 50420
+PostModern_Games 50644
+Dumb_Talking 103894
+Baked_Games 51604
+Dumb_Show 53824
+Hourly_Talking 108163
+Almost_Show 50202
+Cold_Sports 52005
+Hourly_Cooking 54208
+Hourly_Show 48283
+Baked_News 47211
+PostModern_News 50021
+Almost_News 46592
+Surreal_Sports 46834
+Loud_Show 50820
+Loud_Games 49482
+Cold_News 47924
+Almost_Games 49237
+Hot_Games 50228
+Hot_Show 54378
+
+Task 2
+Number of viewers for the on BAT
+1115974
+
+Task 3
+Most Viewed show on ABC channel
+Hourly_Talking
+
+Task 4
+The aired show on ZOO , NOX , ABC
+Surreal_News
+Hot_Cooking
+Loud_Sports
+Baked_Cooking
+Cold_Talking
+Hot_News
+PostModern_Games
+Dumb_Talking
+Loud_Cooking
+Cold_Cooking
+Loud_Talking
+Baked_Games
+Baked_Show
+Dumb_Cooking
+PostModern_Show
+Hot_Talking
+Dumb_Show
+PostModern_Cooking
+Hourly_Talking
+Almost_Show
+Cold_Sports
+Baked_Talking
+Hourly_Cooking
+Hourly_Show
+Surreal_Cooking
+Baked_News
+Surreal_Talking
+PostModern_News
+Surreal_Show
+Almost_News
+Almost_Sports
+Surreal_Sports
+Dumb_Games
+Loud_Show
+PostModern_Talking
+Loud_Games
+Cold_News
+Almost_Games
+PostModern_Sports
+Hourly_News
+Hourly_Sports
+Hot_Games
+Hourly_Games
+Hot_Show
+
+Process finished with exit code 0
